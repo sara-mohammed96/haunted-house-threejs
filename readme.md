@@ -1,7 +1,8 @@
 # Three.js Journey
 
 
-![Uploading screencapture-haunted-house-threejs-l0o2p6op7-sara-mohammed96-vercel-app-2023-10-10-20_35_57.png…]()
+
+![screencapture-haunted-house-threejs-l0o2p6op7-sara-mohammed96-vercel-app-2023-10-10-20_35_57](https://github.com/sara-mohammed96/haunted-house-threejs/assets/63727924/3a11e1ff-58d6-4e15-8e40-e3979e54fd81)
 
 
 ## Setup
